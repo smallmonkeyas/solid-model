@@ -1,0 +1,4816 @@
+{
+    "error": 0,
+    "info": "Success",
+    "data": [
+        [
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T00:00:00+08:00",
+                "value": 46873.69,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T01:00:00+08:00",
+                "value": 46158.58,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T02:00:00+08:00",
+                "value": 45596.66,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T03:00:00+08:00",
+                "value": 46850.5,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T04:00:00+08:00",
+                "value": 48398.83,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T05:00:00+08:00",
+                "value": 46970.7,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T06:00:00+08:00",
+                "value": 49187.56,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T07:00:00+08:00",
+                "value": 49624.66,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T08:00:00+08:00",
+                "value": 40888.52,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T09:00:00+08:00",
+                "value": 45171.03,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T10:00:00+08:00",
+                "value": 46091.46,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T11:00:00+08:00",
+                "value": 45401.43,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T12:00:00+08:00",
+                "value": 45400.13,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T13:00:00+08:00",
+                "value": 45745.36,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T14:00:00+08:00",
+                "value": 49977.33,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T15:00:00+08:00",
+                "value": 50392.79,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T16:00:00+08:00",
+                "value": 47881.93,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T17:00:00+08:00",
+                "value": 46912.24,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T18:00:00+08:00",
+                "value": 41789.47,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T19:00:00+08:00",
+                "value": 44521.89,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T20:00:00+08:00",
+                "value": 42262.2,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T21:00:00+08:00",
+                "value": 44970.33,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T22:00:00+08:00",
+                "value": 44790.48,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-13T23:00:00+08:00",
+                "value": 44379.08,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T00:00:00+08:00",
+                "value": 39471.46,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T01:00:00+08:00",
+                "value": 40683.68,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T02:00:00+08:00",
+                "value": 44064.25,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T03:00:00+08:00",
+                "value": 45611.82,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T04:00:00+08:00",
+                "value": 48691.41,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T05:00:00+08:00",
+                "value": 52984.94,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T06:00:00+08:00",
+                "value": 50237.74,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T07:00:00+08:00",
+                "value": 49760.29,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T08:00:00+08:00",
+                "value": 45232.82,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T09:00:00+08:00",
+                "value": 42055.76,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T10:00:00+08:00",
+                "value": 46307.05,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T11:00:00+08:00",
+                "value": 42051.66,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T12:00:00+08:00",
+                "value": 46523.93,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T13:00:00+08:00",
+                "value": 46587.51,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T14:00:00+08:00",
+                "value": 51388.86,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T15:00:00+08:00",
+                "value": 50783.34,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T16:00:00+08:00",
+                "value": 46225.61,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T17:00:00+08:00",
+                "value": 46577.83,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T18:00:00+08:00",
+                "value": 42391.52,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T19:00:00+08:00",
+                "value": 51564.29,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T20:00:00+08:00",
+                "value": 42871.7,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T21:00:00+08:00",
+                "value": 47398.12,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T22:00:00+08:00",
+                "value": 48025.23,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-14T23:00:00+08:00",
+                "value": 45645.18,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T00:00:00+08:00",
+                "value": 48846.64,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T01:00:00+08:00",
+                "value": 47141.97,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T02:00:00+08:00",
+                "value": 43148.18,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T03:00:00+08:00",
+                "value": 42811.41,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T04:00:00+08:00",
+                "value": 43547.32,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T05:00:00+08:00",
+                "value": 48033.39,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T06:00:00+08:00",
+                "value": 49603.46,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T07:00:00+08:00",
+                "value": 45997.1,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T08:00:00+08:00",
+                "value": 46889.88,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T09:00:00+08:00",
+                "value": 54195.43,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T10:00:00+08:00",
+                "value": 46443.96,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T11:00:00+08:00",
+                "value": 48006.91,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T12:00:00+08:00",
+                "value": 42973.78,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T13:00:00+08:00",
+                "value": 40873.7,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T14:00:00+08:00",
+                "value": 39350.45,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T15:00:00+08:00",
+                "value": 48183.61,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T16:00:00+08:00",
+                "value": 48682.93,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T17:00:00+08:00",
+                "value": 47061.58,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T18:00:00+08:00",
+                "value": 47750.28,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T19:00:00+08:00",
+                "value": 48184.84,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T20:00:00+08:00",
+                "value": 49818.6,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T21:00:00+08:00",
+                "value": 46358.95,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T22:00:00+08:00",
+                "value": 43713.86,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-15T23:00:00+08:00",
+                "value": 47131.96,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T00:00:00+08:00",
+                "value": 41589.77,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T01:00:00+08:00",
+                "value": 46374.2,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T02:00:00+08:00",
+                "value": 44411.15,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T03:00:00+08:00",
+                "value": 48497.73,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T04:00:00+08:00",
+                "value": 50637.62,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T05:00:00+08:00",
+                "value": 46810.56,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T06:00:00+08:00",
+                "value": 50310.39,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T07:00:00+08:00",
+                "value": 47418.68,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T08:00:00+08:00",
+                "value": 42157.84,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T09:00:00+08:00",
+                "value": 45382.55,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T10:00:00+08:00",
+                "value": 46654.52,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T11:00:00+08:00",
+                "value": 47556.96,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T12:00:00+08:00",
+                "value": 44503.96,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T13:00:00+08:00",
+                "value": 43601.5,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T14:00:00+08:00",
+                "value": 50568.11,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T15:00:00+08:00",
+                "value": 49597.49,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T16:00:00+08:00",
+                "value": 47922.91,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T17:00:00+08:00",
+                "value": -853.4,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T18:00:00+08:00",
+                "value": 45982.3,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T19:00:00+08:00",
+                "value": 49705.99,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T20:00:00+08:00",
+                "value": 50935,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T21:00:00+08:00",
+                "value": 53131.03,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T22:00:00+08:00",
+                "value": 47939.43,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-16T23:00:00+08:00",
+                "value": 49205.12,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T00:00:00+08:00",
+                "value": 47302.15,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T01:00:00+08:00",
+                "value": 43639.86,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T02:00:00+08:00",
+                "value": 46820.58,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T03:00:00+08:00",
+                "value": 41174.53,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T04:00:00+08:00",
+                "value": 48209.18,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T05:00:00+08:00",
+                "value": 51920.82,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T06:00:00+08:00",
+                "value": 50318.97,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T07:00:00+08:00",
+                "value": 50327.62,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T08:00:00+08:00",
+                "value": 49664.9,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T09:00:00+08:00",
+                "value": 51745.64,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T10:00:00+08:00",
+                "value": 45784.52,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T11:00:00+08:00",
+                "value": 48524.49,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T12:00:00+08:00",
+                "value": 42522.46,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T13:00:00+08:00",
+                "value": 47113.07,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T14:00:00+08:00",
+                "value": 48084.56,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T15:00:00+08:00",
+                "value": 46629.1,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T16:00:00+08:00",
+                "value": 48234.61,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T17:00:00+08:00",
+                "value": 47684.47,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T18:00:00+08:00",
+                "value": 51978.77,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T19:00:00+08:00",
+                "value": 46718.51,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T20:00:00+08:00",
+                "value": 47326.61,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T21:00:00+08:00",
+                "value": 54672.21,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T22:00:00+08:00",
+                "value": 50771.32,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-17T23:00:00+08:00",
+                "value": 52721.88,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T00:00:00+08:00",
+                "value": 47791.79,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T01:00:00+08:00",
+                "value": 47773.98,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T02:00:00+08:00",
+                "value": 50688.74,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T03:00:00+08:00",
+                "value": 44119.59,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T04:00:00+08:00",
+                "value": 48015.13,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T05:00:00+08:00",
+                "value": 45149.22,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T06:00:00+08:00",
+                "value": 52749.05,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T07:00:00+08:00",
+                "value": 45528.47,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T08:00:00+08:00",
+                "value": 42906.31,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T09:00:00+08:00",
+                "value": 73130.51,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T10:00:00+08:00",
+                "value": 37342.45,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T11:00:00+08:00",
+                "value": 43758.27,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T12:00:00+08:00",
+                "value": 47860.28,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T13:00:00+08:00",
+                "value": 48290.3,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T14:00:00+08:00",
+                "value": 45733.07,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T15:00:00+08:00",
+                "value": 47021.26,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T16:00:00+08:00",
+                "value": 45744.91,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T17:00:00+08:00",
+                "value": 35937.52,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T18:00:00+08:00",
+                "value": 43241.22,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T19:00:00+08:00",
+                "value": 37847.39,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T20:00:00+08:00",
+                "value": 36435.78,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T21:00:00+08:00",
+                "value": 37942.72,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T22:00:00+08:00",
+                "value": 38510.95,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-18T23:00:00+08:00",
+                "value": 43482.72,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T00:00:00+08:00",
+                "value": 40425.86,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T01:00:00+08:00",
+                "value": 45570.21,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T02:00:00+08:00",
+                "value": 45407.13,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T03:00:00+08:00",
+                "value": 49818.91,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T04:00:00+08:00",
+                "value": 38981.25,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T05:00:00+08:00",
+                "value": 50329.09,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T06:00:00+08:00",
+                "value": -804.28,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T07:00:00+08:00",
+                "value": 47771.94,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T08:00:00+08:00",
+                "value": 45345.61,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T09:00:00+08:00",
+                "value": 48557.09,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T10:00:00+08:00",
+                "value": 48433.52,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T11:00:00+08:00",
+                "value": 50159.59,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T12:00:00+08:00",
+                "value": 47648.15,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T13:00:00+08:00",
+                "value": 53386.23,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T14:00:00+08:00",
+                "value": 47914.24,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T15:00:00+08:00",
+                "value": 48092.07,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T16:00:00+08:00",
+                "value": 49816.28,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T17:00:00+08:00",
+                "value": 50762.25,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T18:00:00+08:00",
+                "value": 46765.92,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T19:00:00+08:00",
+                "value": 47393.76,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T20:00:00+08:00",
+                "value": 47600.93,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T21:00:00+08:00",
+                "value": 61640.89,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T22:00:00+08:00",
+                "value": 41556.55,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-19T23:00:00+08:00",
+                "value": 42924.13,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T00:00:00+08:00",
+                "value": 45713.58,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T01:00:00+08:00",
+                "value": 46766.89,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T02:00:00+08:00",
+                "value": 49591.05,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T03:00:00+08:00",
+                "value": 50168.66,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T04:00:00+08:00",
+                "value": 53823.22,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T05:00:00+08:00",
+                "value": 47761.29,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T06:00:00+08:00",
+                "value": 50276.42,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T07:00:00+08:00",
+                "value": 46797.48,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T08:00:00+08:00",
+                "value": 49550.07,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T09:00:00+08:00",
+                "value": 49830.08,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T10:00:00+08:00",
+                "value": 49473.16,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T11:00:00+08:00",
+                "value": 48671.68,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T12:00:00+08:00",
+                "value": 45791.51,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T13:00:00+08:00",
+                "value": 49683.06,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T14:00:00+08:00",
+                "value": 48235.42,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T15:00:00+08:00",
+                "value": 51021.89,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T16:00:00+08:00",
+                "value": 52455.48,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T17:00:00+08:00",
+                "value": 48448.21,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T18:00:00+08:00",
+                "value": 47912.2,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T19:00:00+08:00",
+                "value": 48544.92,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T20:00:00+08:00",
+                "value": 47268.64,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T21:00:00+08:00",
+                "value": 40289.74,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T22:00:00+08:00",
+                "value": 40863.56,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-20T23:00:00+08:00",
+                "value": 46151.82,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T00:00:00+08:00",
+                "value": 50796.03,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T01:00:00+08:00",
+                "value": 48359.05,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T02:00:00+08:00",
+                "value": 46293.79,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T03:00:00+08:00",
+                "value": 53835.98,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T04:00:00+08:00",
+                "value": 49892.53,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T05:00:00+08:00",
+                "value": 51162.23,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T06:00:00+08:00",
+                "value": 49200.99,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T07:00:00+08:00",
+                "value": 49381.91,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T08:00:00+08:00",
+                "value": 50504.5,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T09:00:00+08:00",
+                "value": 48487.58,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T10:00:00+08:00",
+                "value": 43924.3,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T11:00:00+08:00",
+                "value": 47848.98,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T12:00:00+08:00",
+                "value": 49583.68,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T13:00:00+08:00",
+                "value": 47925.76,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T14:00:00+08:00",
+                "value": 43795.33,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T15:00:00+08:00",
+                "value": 50213.93,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T16:00:00+08:00",
+                "value": 46531.73,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T17:00:00+08:00",
+                "value": 40582.66,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T18:00:00+08:00",
+                "value": 49424.39,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T19:00:00+08:00",
+                "value": -853.1,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T20:00:00+08:00",
+                "value": 32168,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T21:00:00+08:00",
+                "value": 37687.45,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T22:00:00+08:00",
+                "value": 43079.2,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-21T23:00:00+08:00",
+                "value": 39006.18,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T00:00:00+08:00",
+                "value": 37771.33,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T01:00:00+08:00",
+                "value": 50472.85,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T02:00:00+08:00",
+                "value": 49787.53,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T03:00:00+08:00",
+                "value": 48246.58,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T04:00:00+08:00",
+                "value": 47994.24,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T05:00:00+08:00",
+                "value": 50049.88,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T06:00:00+08:00",
+                "value": 47773.84,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T07:00:00+08:00",
+                "value": 48566.2,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T08:00:00+08:00",
+                "value": 46089.12,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T09:00:00+08:00",
+                "value": 47546.02,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T10:00:00+08:00",
+                "value": 50204.23,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T11:00:00+08:00",
+                "value": 51661.88,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T12:00:00+08:00",
+                "value": 44339.83,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T13:00:00+08:00",
+                "value": 52094.81,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T14:00:00+08:00",
+                "value": 48549.29,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T15:00:00+08:00",
+                "value": 46529.93,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T16:00:00+08:00",
+                "value": 41988.01,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T17:00:00+08:00",
+                "value": 45665.2,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T18:00:00+08:00",
+                "value": 46348.48,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T19:00:00+08:00",
+                "value": 45285.79,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T20:00:00+08:00",
+                "value": 45821.62,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T21:00:00+08:00",
+                "value": 46716.02,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T22:00:00+08:00",
+                "value": 48709.76,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-22T23:00:00+08:00",
+                "value": 46539.07,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T00:00:00+08:00",
+                "value": 41836.34,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T01:00:00+08:00",
+                "value": 47208.81,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T02:00:00+08:00",
+                "value": 49310.2,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T03:00:00+08:00",
+                "value": 52678.77,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T04:00:00+08:00",
+                "value": 52102.09,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T05:00:00+08:00",
+                "value": 37718.51,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T06:00:00+08:00",
+                "value": 40564.95,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T07:00:00+08:00",
+                "value": 43771,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T08:00:00+08:00",
+                "value": 42936.68,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T09:00:00+08:00",
+                "value": 50174.1,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T10:00:00+08:00",
+                "value": 49300.43,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T11:00:00+08:00",
+                "value": 41804.28,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T12:00:00+08:00",
+                "value": 48477.07,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T13:00:00+08:00",
+                "value": 50972.87,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T14:00:00+08:00",
+                "value": 49927.54,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T15:00:00+08:00",
+                "value": 50653.51,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T16:00:00+08:00",
+                "value": 44450.58,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T17:00:00+08:00",
+                "value": 45813.68,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T18:00:00+08:00",
+                "value": 46896.72,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T19:00:00+08:00",
+                "value": 48938.31,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T20:00:00+08:00",
+                "value": 46838.13,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T21:00:00+08:00",
+                "value": 57040.43,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T22:00:00+08:00",
+                "value": 47437.12,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-23T23:00:00+08:00",
+                "value": 46588.85,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T00:00:00+08:00",
+                "value": 43264.29,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T01:00:00+08:00",
+                "value": 47457.83,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T02:00:00+08:00",
+                "value": 51972.36,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T03:00:00+08:00",
+                "value": 47306.55,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T04:00:00+08:00",
+                "value": 50430.3,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T05:00:00+08:00",
+                "value": 45855.92,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T06:00:00+08:00",
+                "value": 51958.61,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T07:00:00+08:00",
+                "value": 45098.17,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T08:00:00+08:00",
+                "value": -841.97,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T09:00:00+08:00",
+                "value": 44726.1,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T10:00:00+08:00",
+                "value": 45833.36,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T11:00:00+08:00",
+                "value": 45770.14,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T12:00:00+08:00",
+                "value": 45159.55,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T13:00:00+08:00",
+                "value": 54159.93,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T14:00:00+08:00",
+                "value": 52730.56,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T15:00:00+08:00",
+                "value": 43642.62,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T16:00:00+08:00",
+                "value": 49286.25,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T17:00:00+08:00",
+                "value": 49331.56,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T18:00:00+08:00",
+                "value": 47338.66,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T19:00:00+08:00",
+                "value": 48613.34,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T20:00:00+08:00",
+                "value": 53364.18,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T21:00:00+08:00",
+                "value": 53921.64,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T22:00:00+08:00",
+                "value": 52215.2,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-24T23:00:00+08:00",
+                "value": 51170.26,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T00:00:00+08:00",
+                "value": 48540.65,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T01:00:00+08:00",
+                "value": 47879.2,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T02:00:00+08:00",
+                "value": 49247.95,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T03:00:00+08:00",
+                "value": 48668.21,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T04:00:00+08:00",
+                "value": 50828.08,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T05:00:00+08:00",
+                "value": 48747.38,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T06:00:00+08:00",
+                "value": 45359.84,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T07:00:00+08:00",
+                "value": 51223.53,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T08:00:00+08:00",
+                "value": 47615.34,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T09:00:00+08:00",
+                "value": 59960.2,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T10:00:00+08:00",
+                "value": 52000.29,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T11:00:00+08:00",
+                "value": 52041.93,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T12:00:00+08:00",
+                "value": 46037.66,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T13:00:00+08:00",
+                "value": 49347.2,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T14:00:00+08:00",
+                "value": 44826.32,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T15:00:00+08:00",
+                "value": 48747.19,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T16:00:00+08:00",
+                "value": 52191.44,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T17:00:00+08:00",
+                "value": 52845.55,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T18:00:00+08:00",
+                "value": 48752.4,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T19:00:00+08:00",
+                "value": 48905.85,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T20:00:00+08:00",
+                "value": 55116.82,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T21:00:00+08:00",
+                "value": 56741.41,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T22:00:00+08:00",
+                "value": 47945.25,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-25T23:00:00+08:00",
+                "value": 49416.24,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T00:00:00+08:00",
+                "value": 50663.1,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T01:00:00+08:00",
+                "value": 49986.49,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T02:00:00+08:00",
+                "value": 48031.16,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T03:00:00+08:00",
+                "value": 50874.53,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T04:00:00+08:00",
+                "value": 47353.83,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T05:00:00+08:00",
+                "value": 52486.13,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T06:00:00+08:00",
+                "value": 55815,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T07:00:00+08:00",
+                "value": 51284.88,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T08:00:00+08:00",
+                "value": 45021.58,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T09:00:00+08:00",
+                "value": 51154.43,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T10:00:00+08:00",
+                "value": 48521.43,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T11:00:00+08:00",
+                "value": 49394.5,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T12:00:00+08:00",
+                "value": 48175.52,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T13:00:00+08:00",
+                "value": 49903.46,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T14:00:00+08:00",
+                "value": 48895.57,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T15:00:00+08:00",
+                "value": 46745.46,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T16:00:00+08:00",
+                "value": 48511.89,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T17:00:00+08:00",
+                "value": 49352.64,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T18:00:00+08:00",
+                "value": 52030.85,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T19:00:00+08:00",
+                "value": 44576.05,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T20:00:00+08:00",
+                "value": 44049.11,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T21:00:00+08:00",
+                "value": -899.42,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T22:00:00+08:00",
+                "value": 52683.45,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-26T23:00:00+08:00",
+                "value": 50822.86,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T00:00:00+08:00",
+                "value": 51426.82,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T01:00:00+08:00",
+                "value": 45341.21,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T02:00:00+08:00",
+                "value": 47396.33,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T03:00:00+08:00",
+                "value": 46910.05,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T04:00:00+08:00",
+                "value": 43805.07,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T05:00:00+08:00",
+                "value": 49248.77,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T06:00:00+08:00",
+                "value": 48694.11,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T07:00:00+08:00",
+                "value": 47096.54,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T08:00:00+08:00",
+                "value": 52336.14,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T09:00:00+08:00",
+                "value": 52335.61,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T10:00:00+08:00",
+                "value": 53293.39,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T11:00:00+08:00",
+                "value": 49490.66,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T12:00:00+08:00",
+                "value": 47176.69,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T13:00:00+08:00",
+                "value": 46669.25,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T14:00:00+08:00",
+                "value": 50439.28,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T15:00:00+08:00",
+                "value": 50885.41,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T16:00:00+08:00",
+                "value": 52169,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T17:00:00+08:00",
+                "value": 46256.4,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T18:00:00+08:00",
+                "value": 44636.64,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T19:00:00+08:00",
+                "value": 51171.45,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T20:00:00+08:00",
+                "value": 46749.27,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T21:00:00+08:00",
+                "value": 53296.33,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T22:00:00+08:00",
+                "value": 51258.25,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-27T23:00:00+08:00",
+                "value": 51815.66,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T00:00:00+08:00",
+                "value": 47659.84,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T01:00:00+08:00",
+                "value": 42398.31,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T02:00:00+08:00",
+                "value": 47939.55,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T03:00:00+08:00",
+                "value": 47810.32,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T04:00:00+08:00",
+                "value": 44724.57,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T05:00:00+08:00",
+                "value": 45065.84,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T06:00:00+08:00",
+                "value": 47759.17,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T07:00:00+08:00",
+                "value": 48824.4,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T08:00:00+08:00",
+                "value": 48997.48,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T09:00:00+08:00",
+                "value": 39974.33,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T10:00:00+08:00",
+                "value": 52070.64,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T11:00:00+08:00",
+                "value": 50252.59,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T12:00:00+08:00",
+                "value": 50029.88,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T13:00:00+08:00",
+                "value": 44994.83,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T14:00:00+08:00",
+                "value": 49526.26,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T15:00:00+08:00",
+                "value": 51334.59,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T16:00:00+08:00",
+                "value": 42068.27,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T17:00:00+08:00",
+                "value": 40327.6,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T18:00:00+08:00",
+                "value": 42446.38,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T19:00:00+08:00",
+                "value": 48583.05,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T20:00:00+08:00",
+                "value": 43000.64,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T21:00:00+08:00",
+                "value": 55114.78,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T22:00:00+08:00",
+                "value": 44507.06,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-28T23:00:00+08:00",
+                "value": 53860.83,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T00:00:00+08:00",
+                "value": 49998.72,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T01:00:00+08:00",
+                "value": 48953.97,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T02:00:00+08:00",
+                "value": 50921.61,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T03:00:00+08:00",
+                "value": 50449.14,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T04:00:00+08:00",
+                "value": 47601.34,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T05:00:00+08:00",
+                "value": 49282.67,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T06:00:00+08:00",
+                "value": 52446.6,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T07:00:00+08:00",
+                "value": 51622.23,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T08:00:00+08:00",
+                "value": 48776.43,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T09:00:00+08:00",
+                "value": 49961.95,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T10:00:00+08:00",
+                "value": 38900.09,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T11:00:00+08:00",
+                "value": -839.89,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T12:00:00+08:00",
+                "value": 47367.17,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T13:00:00+08:00",
+                "value": 48073.45,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T14:00:00+08:00",
+                "value": 44812.25,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T15:00:00+08:00",
+                "value": 33349.45,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T16:00:00+08:00",
+                "value": 39085.44,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T17:00:00+08:00",
+                "value": 45593.5,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T18:00:00+08:00",
+                "value": 43761.83,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T19:00:00+08:00",
+                "value": 46548.07,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T20:00:00+08:00",
+                "value": 49586.9,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T21:00:00+08:00",
+                "value": 45194.81,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T22:00:00+08:00",
+                "value": 42466.56,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-29T23:00:00+08:00",
+                "value": 50799.11,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T00:00:00+08:00",
+                "value": 48625.68,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T01:00:00+08:00",
+                "value": 54621.99,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T02:00:00+08:00",
+                "value": 55432.8,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T03:00:00+08:00",
+                "value": 50557.95,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T04:00:00+08:00",
+                "value": 53448.83,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T05:00:00+08:00",
+                "value": 48227.31,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T06:00:00+08:00",
+                "value": 53404.96,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T07:00:00+08:00",
+                "value": 51797.31,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T08:00:00+08:00",
+                "value": 49730.5,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T09:00:00+08:00",
+                "value": 48324.97,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T10:00:00+08:00",
+                "value": 46883.68,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T11:00:00+08:00",
+                "value": 47918.1,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T12:00:00+08:00",
+                "value": 52289.99,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T13:00:00+08:00",
+                "value": 53031.57,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T14:00:00+08:00",
+                "value": 55105.74,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T15:00:00+08:00",
+                "value": 53308.72,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T16:00:00+08:00",
+                "value": 46071.61,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T17:00:00+08:00",
+                "value": 46841.18,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T18:00:00+08:00",
+                "value": 46350.17,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T19:00:00+08:00",
+                "value": 48001.08,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T20:00:00+08:00",
+                "value": 47074.73,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T21:00:00+08:00",
+                "value": 46549.7,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T22:00:00+08:00",
+                "value": 48516.23,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-30T23:00:00+08:00",
+                "value": 44257.41,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T00:00:00+08:00",
+                "value": 49638.12,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T01:00:00+08:00",
+                "value": 47588.98,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T02:00:00+08:00",
+                "value": 51633.43,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T03:00:00+08:00",
+                "value": 52803.02,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T04:00:00+08:00",
+                "value": 51416.38,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T05:00:00+08:00",
+                "value": 51273.29,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T06:00:00+08:00",
+                "value": 48477,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T07:00:00+08:00",
+                "value": 48014.18,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T08:00:00+08:00",
+                "value": 45757.84,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T09:00:00+08:00",
+                "value": 45673.11,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T10:00:00+08:00",
+                "value": 48069.58,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T11:00:00+08:00",
+                "value": 49524.79,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T12:00:00+08:00",
+                "value": 49838.88,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T13:00:00+08:00",
+                "value": 47416.39,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T14:00:00+08:00",
+                "value": 39455.56,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T15:00:00+08:00",
+                "value": 44923.86,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T16:00:00+08:00",
+                "value": 46380.39,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T17:00:00+08:00",
+                "value": 51832.14,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T18:00:00+08:00",
+                "value": 47549.05,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T19:00:00+08:00",
+                "value": 47270.34,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T20:00:00+08:00",
+                "value": 50510.02,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T21:00:00+08:00",
+                "value": 50872.29,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T22:00:00+08:00",
+                "value": 48919.02,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-10-31T23:00:00+08:00",
+                "value": 49204.09,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T00:00:00+08:00",
+                "value": 51029.96,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T01:00:00+08:00",
+                "value": 49735.98,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T02:00:00+08:00",
+                "value": 51084.52,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T03:00:00+08:00",
+                "value": 47227.11,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T04:00:00+08:00",
+                "value": 46889.68,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T05:00:00+08:00",
+                "value": 42204.75,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T06:00:00+08:00",
+                "value": 46058.72,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T07:00:00+08:00",
+                "value": 49355.48,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T08:00:00+08:00",
+                "value": 45128.63,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T09:00:00+08:00",
+                "value": 53902.64,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T10:00:00+08:00",
+                "value": 47391.74,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T11:00:00+08:00",
+                "value": 51683.17,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T12:00:00+08:00",
+                "value": 42710.5,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T13:00:00+08:00",
+                "value": 48515.93,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T14:00:00+08:00",
+                "value": 49209.16,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T15:00:00+08:00",
+                "value": 49452.34,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T16:00:00+08:00",
+                "value": 54000.89,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T17:00:00+08:00",
+                "value": 49478.57,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T18:00:00+08:00",
+                "value": 46990.89,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T19:00:00+08:00",
+                "value": 48264.67,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T20:00:00+08:00",
+                "value": 54748.74,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T21:00:00+08:00",
+                "value": 50733.27,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T22:00:00+08:00",
+                "value": 47929.8,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-01T23:00:00+08:00",
+                "value": 52824.08,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T00:00:00+08:00",
+                "value": 47639.54,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T01:00:00+08:00",
+                "value": 51745.9,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T02:00:00+08:00",
+                "value": 47556.27,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T03:00:00+08:00",
+                "value": 46426.89,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T04:00:00+08:00",
+                "value": 46525.2,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T05:00:00+08:00",
+                "value": 45915.93,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T06:00:00+08:00",
+                "value": 44973.72,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T07:00:00+08:00",
+                "value": 47589.04,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T08:00:00+08:00",
+                "value": 48754.75,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T09:00:00+08:00",
+                "value": 47070.25,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T10:00:00+08:00",
+                "value": 50968.02,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T11:00:00+08:00",
+                "value": 50373.72,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T12:00:00+08:00",
+                "value": 56708.02,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T13:00:00+08:00",
+                "value": 52253.34,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T14:00:00+08:00",
+                "value": 70617.96,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T15:00:00+08:00",
+                "value": 51938.81,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T16:00:00+08:00",
+                "value": 58280.66,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T17:00:00+08:00",
+                "value": 51210.95,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T18:00:00+08:00",
+                "value": 50432.61,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T19:00:00+08:00",
+                "value": 50812.8,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T20:00:00+08:00",
+                "value": 47117.18,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T21:00:00+08:00",
+                "value": 52180.11,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T22:00:00+08:00",
+                "value": 46141.38,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-02T23:00:00+08:00",
+                "value": 49223.33,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T00:00:00+08:00",
+                "value": 53178.7,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T01:00:00+08:00",
+                "value": 45609.03,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T02:00:00+08:00",
+                "value": 50125.82,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T03:00:00+08:00",
+                "value": 45339.82,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T04:00:00+08:00",
+                "value": 50408.64,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T05:00:00+08:00",
+                "value": 46901.16,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T06:00:00+08:00",
+                "value": 49879.14,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T07:00:00+08:00",
+                "value": 49288.49,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T08:00:00+08:00",
+                "value": 50065.11,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T09:00:00+08:00",
+                "value": 51301.7,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T10:00:00+08:00",
+                "value": 45276.55,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T11:00:00+08:00",
+                "value": 61967.59,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T12:00:00+08:00",
+                "value": 47360.71,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T13:00:00+08:00",
+                "value": 47309.28,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T14:00:00+08:00",
+                "value": 49446.43,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T15:00:00+08:00",
+                "value": 46614.36,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T16:00:00+08:00",
+                "value": 48935.18,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T17:00:00+08:00",
+                "value": 43339.63,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T18:00:00+08:00",
+                "value": 49295.17,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T19:00:00+08:00",
+                "value": 50305.8,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T20:00:00+08:00",
+                "value": 49423.1,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T21:00:00+08:00",
+                "value": 48370.21,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T22:00:00+08:00",
+                "value": 49048.05,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-03T23:00:00+08:00",
+                "value": 48382.2,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T00:00:00+08:00",
+                "value": 53914.81,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T01:00:00+08:00",
+                "value": 47404.88,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T02:00:00+08:00",
+                "value": 47754.18,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T03:00:00+08:00",
+                "value": 48912.27,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T04:00:00+08:00",
+                "value": 49105.48,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T05:00:00+08:00",
+                "value": 46428.82,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T06:00:00+08:00",
+                "value": 51324.87,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T07:00:00+08:00",
+                "value": 50045.51,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T08:00:00+08:00",
+                "value": 45117.8,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T09:00:00+08:00",
+                "value": 48719.54,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T10:00:00+08:00",
+                "value": 35107.09,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T11:00:00+08:00",
+                "value": 42666.56,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T12:00:00+08:00",
+                "value": 43488.57,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T13:00:00+08:00",
+                "value": 47927.46,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T14:00:00+08:00",
+                "value": 43856.98,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T15:00:00+08:00",
+                "value": 52081.39,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T16:00:00+08:00",
+                "value": 45484.92,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T17:00:00+08:00",
+                "value": 41315.88,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T18:00:00+08:00",
+                "value": 45010.75,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T19:00:00+08:00",
+                "value": 50033.96,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T20:00:00+08:00",
+                "value": 46337.34,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T21:00:00+08:00",
+                "value": 46061.66,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T22:00:00+08:00",
+                "value": 47299.05,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-04T23:00:00+08:00",
+                "value": 40953.81,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T00:00:00+08:00",
+                "value": 51541.7,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T01:00:00+08:00",
+                "value": 45391.05,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T02:00:00+08:00",
+                "value": 46919.83,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T03:00:00+08:00",
+                "value": 50723.86,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T04:00:00+08:00",
+                "value": 42759.97,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T05:00:00+08:00",
+                "value": 49119.45,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T06:00:00+08:00",
+                "value": 48834.74,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T07:00:00+08:00",
+                "value": 45416.54,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T08:00:00+08:00",
+                "value": 48048.38,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T09:00:00+08:00",
+                "value": 51581.2,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T10:00:00+08:00",
+                "value": 47548.35,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T11:00:00+08:00",
+                "value": 52735.77,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T12:00:00+08:00",
+                "value": 46726.38,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T13:00:00+08:00",
+                "value": 51222.18,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T14:00:00+08:00",
+                "value": 45309.2,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T15:00:00+08:00",
+                "value": 48441.43,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T16:00:00+08:00",
+                "value": 47989.91,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T17:00:00+08:00",
+                "value": 44020.84,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T18:00:00+08:00",
+                "value": -852.68,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T19:00:00+08:00",
+                "value": 46430.45,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T20:00:00+08:00",
+                "value": 43357.27,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T21:00:00+08:00",
+                "value": 49574,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T22:00:00+08:00",
+                "value": 49589.13,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-05T23:00:00+08:00",
+                "value": 48574,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T00:00:00+08:00",
+                "value": 53594.37,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T01:00:00+08:00",
+                "value": 50929.2,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T02:00:00+08:00",
+                "value": 44237.88,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T03:00:00+08:00",
+                "value": 49471.64,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T04:00:00+08:00",
+                "value": 44868.8,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T05:00:00+08:00",
+                "value": 48308.65,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T06:00:00+08:00",
+                "value": 46045.11,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T07:00:00+08:00",
+                "value": 50125.69,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T08:00:00+08:00",
+                "value": 49112.9,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T09:00:00+08:00",
+                "value": 50003.87,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T10:00:00+08:00",
+                "value": 48778.19,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T11:00:00+08:00",
+                "value": 44151.27,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T12:00:00+08:00",
+                "value": 48660.5,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T13:00:00+08:00",
+                "value": 51370.83,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T14:00:00+08:00",
+                "value": 48398.71,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T15:00:00+08:00",
+                "value": 46363.07,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T16:00:00+08:00",
+                "value": 48703.53,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T17:00:00+08:00",
+                "value": 45660.81,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T18:00:00+08:00",
+                "value": 51476.23,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T19:00:00+08:00",
+                "value": 49444.79,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T20:00:00+08:00",
+                "value": 46665.72,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T21:00:00+08:00",
+                "value": 41092.72,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T22:00:00+08:00",
+                "value": 49540.5,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-06T23:00:00+08:00",
+                "value": 52663.61,
+                "status": 0
+            },
+            {
+                "name": "G93511",
+                "description": "",
+                "unit": "",
+                "time": "2021-11-07T00:00:00+08:00",
+                "value": 51879.22,
+                "status": 0
+            }
+        ]
+    ]
+}
